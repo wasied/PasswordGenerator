@@ -2,7 +2,7 @@ const yargs = require("yargs");
 
 /* Generate alphabet */
 let lowerAlphabet = [...Array(26)].map(() => (i++).toString(36), i = 9).join("");
-let upperAlphabet = (lowerAlphabet + lowerAlphabet.toUpperCase());
+let upperAlphabet = lowerAlphabet.toUpperCase();
 
 /* Generate digits & symbols */
 let digits = "0123456789";
