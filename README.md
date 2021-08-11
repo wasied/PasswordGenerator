@@ -26,7 +26,7 @@ npm run generate <i_pwd_length=13> <b_use_uppercase=true> <b_use_digits=true> <b
 
 Generate a password with 13 characters using uppercase letters, digits and symbols.
 ```
-npm run generate
+npm run generate 13
 ```
 
 Generate a password with 16 characters using only lowercase letters, digits and symbols.
