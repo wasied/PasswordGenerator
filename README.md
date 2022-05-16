@@ -18,7 +18,7 @@ And that's it, you can go to the next step.
 ## How to use 
 To generate a password, simply write
 ```
-npm run generate <i_pwd_length=13> <b_use_uppercase=true> <b_use_digits=true> <b_use_symbols=true>
+npm run generate {i_pwd_length} [b_use_uppercase=true] [b_use_digits=true] [b_use_symbols=true]
 ```
 <br>
 
