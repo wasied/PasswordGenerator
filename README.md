@@ -5,7 +5,7 @@ Use it to secure your passwords (you have to!).
 ## Installation
 First, clone this repo on your machine from the terminal by using
 ```
-git clone https://github.com/MaaxIT/PasswordGenerator
+git clone https://github.com/wasied/PasswordGenerator
 ```
 
 After, use this to automatically install all dependencies

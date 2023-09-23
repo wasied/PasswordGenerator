@@ -76,6 +76,6 @@ yargs.command("generate <length> [uppercase] [digits] [symbols]", "Generate a ra
 	console.log("----------------------------------");
 	console.log(`Your password has been generated.\nResult : ${pwdResult}`);
 	console.log("----------------------------------\n");
-	console.log(`Thank you for using this system!\nMade by MaaxIT.`);
+	console.log(`Thank you for using this system!\nMade by Wasied.`);
 
 }).argv;

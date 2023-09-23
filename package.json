@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MaaxIT/password_generator.git"
+    "url": "git+https://github.com/wasied/password_generator.git"
   },
   "keywords": [
     "security",
     "password"
   ],
-  "author": "MaaxIT",
+  "author": "wasied",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MaaxIT/password_generator/issues"
+    "url": "https://github.com/wasied/password_generator/issues"
   },
-  "homepage": "https://github.com/MaaxIT/password_generator#readme",
+  "homepage": "https://github.com/wasied/password_generator#readme",
   "dependencies": {
     "nodemon": "^2.0.12",
     "yargs": "^17.1.0"
